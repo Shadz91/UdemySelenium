@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6101" started-at="2018-12-19T16:43:39Z" finished-at="2018-12-19T16:43:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6101" started-at="2018-12-19T16:43:39Z" finished-at="2018-12-19T16:43:45Z">
+      <class name="com.udemy.rahul.Screenshot">
+        <test-method status="PASS" signature="screenshotTest()[pri:0, instance:com.udemy.rahul.Screenshot@26be92ad]" name="screenshotTest" duration-ms="6058" started-at="2018-12-19T16:43:39Z" finished-at="2018-12-19T16:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotTest -->
+      </class> <!-- com.udemy.rahul.Screenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
